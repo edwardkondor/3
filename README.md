@@ -2,12 +2,12 @@
   <tr>
     <td>コン</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/660F.svg" alt="昏" height="30"></td>
-    <td><b>くら</b>い　　　昏<ruby>睡<rt>すい</rt></ruby>　<ruby>黄昏<rt>たそがれ</rt></ruby>　　　　昏<ruby>迷<rt>めい</rt></ruby></td>  
+    <td><b>くら</b>い　　　<a href="https://jisho.org/search/昏睡"><ins>昏<ruby>睡<rt>すい</rt></ruby></ins></a>　　<a href="https://jisho.org/search/黄昏"><ins><ruby>黄昏<rt>たそがれ</rt></ruby></ins>　　<a href="https://jisho.org/search/昏迷">昏<ruby>迷<rt>めい</rt></ruby></a>　</td>  
   </tr>
   <tr>
     <td>コン</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/5A5A.svg" alt="婚" height="30"></td>
-    <td><b>くな</b>ぐ　　　<ruby>結<rt>けっ</rt></ruby>婚　<ruby>離<rt>り</rt></ruby>婚　　　　婚<ruby>姻<rt>いん</rt></ruby></td>  
+    <td><b>くな</b>ぐ　　　<a href="https://jisho.org/search/結婚"><ins><ruby>結<rt>けっ</rt></ruby>婚</ins></a>　　<a href="https://jisho.org/search/離婚"><ins><ruby>離<rt>り</rt></ruby>婚</ins></a>　　<a href="https://jisho.org/search/婚姻">婚<ruby>姻<rt>いん</rt></ruby></a>　</td>  
   </tr>
 </table>
 

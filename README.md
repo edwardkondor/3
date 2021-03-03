@@ -15,21 +15,12 @@
 <table>
   <tr>
     <td>ソ</td>
-    <td><img src="https://f.2cn.cn/hanzi/svg/660F.svg" alt="且" height="30"></td>
+    <td><img src="https://f.2cn.cn/hanzi/svg/4E14.svg" alt="且" height="30"></td>
     <td><a href="https://jisho.org/search/且つ"><b>か</b>つ</a></td>　…  
   </tr>
   <tr>
     <td>ソ</td>
-    <td><img src="https://f.2cn.cn/hanzi/svg/5A5A.svg" alt="詛" height="30"></td>
+    <td><img src="https://f.2cn.cn/hanzi/svg/8A5B.svg" alt="詛" height="30"></td>
     <td><a href="https://jisho.org/search/呪う"><b>のろ</b>う</a>　　　<a href="https://jisho.org/search/呪詛"><ins><ruby>呪<rt>じゅ</rt></ruby>詛</ins></a>　</td>  
   </tr>
 </table>
-
-
-
-
-
-
-
-
-<!--結　304　襲撃し 133　踏襲　136　逆襲を　132　　{逆|ギャク}襲-->

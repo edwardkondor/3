@@ -29,3 +29,17 @@
     <td><a href="https://jisho.org/search/呪う"><b>のろ</b>う</a>　　　<a href="https://jisho.org/search/呪詛"><ins><ruby>呪<rt>じゅ</rt></ruby>詛</ins></a>　</td>  
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>コ　　</td>
+    <td><img src="https://f.2cn.cn/hanzi/svg/8DE8.svg" alt="跨" height="30"></td>
+    <td><a href="https://jisho.org/search/跨ぐ"><b>また</b>ぐ</a>　　　　<a href="https://jisho.org/search/跨線"><ins>跨<ruby>線<rt>せん</rt></ruby></ins></a></td>　  
+  </tr>
+</table>
+
+
+
+
+
+

@@ -16,12 +16,12 @@
   <tr>
     <td>ソ　　</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/4E14.svg" alt="且" height="30"></td>
-    <td><a href="https://jisho.org/search/且つ"><b>か</b>つ</a>　…</td>　  
+    <td><a href="https://jisho.org/search/且つ"><b>か</b>つ</a>　　　　…</td>　  
   </tr>
   <tr>
     <td>ソ　　</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/72D9.svg" alt="狙" height="30"></td>
-    <td><a href="https://jisho.org/search/狙う"><b>ねら</b>う</a>　…</td>  
+    <td><a href="https://jisho.org/search/狙う"><b>ねら</b>う</a>　　　…</td>  
   </tr>
   <tr>
     <td>ソ　　</td>

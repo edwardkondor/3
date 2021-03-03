@@ -20,6 +20,11 @@
   </tr>
   <tr>
     <td>ソ　　</td>
+    <td><img src="https://f.2cn.cn/hanzi/svg/72D9.svg" alt="狙" height="30"></td>
+    <td><a href="https://jisho.org/search/狙う"><b>ねら</b>う</a>　…</td>  
+  </tr>
+  <tr>
+    <td>ソ　　</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/8A5B.svg" alt="詛" height="30"></td>
     <td><a href="https://jisho.org/search/呪う"><b>のろ</b>う</a>　　　<a href="https://jisho.org/search/呪詛"><ins><ruby>呪<rt>じゅ</rt></ruby>詛</ins></a>　</td>  
   </tr>

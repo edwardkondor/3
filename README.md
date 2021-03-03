@@ -7,7 +7,7 @@
   <tr>
     <td>コン</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/5A5A.svg" alt="婚" height="30"></td>
-    <td><a href="https://jisho.org/search/くなぐ"><b>くな</b>ぐ</a>　　　<a href="https://jisho.org/search/結婚"><ins><ruby>結<rt>けっ</rt></ruby>婚</ins></a>　　<a href="https://jisho.org/search/離婚"><ins><ruby>離<rt>り</rt></ruby>婚</ins></a>　　<a href="https://jisho.org/search/婚姻">婚<ruby>姻<rt>いん</rt></ruby></a>　</td>  
+    <td><a href="https://jisho.org/search/くなぐ"><b>くな</b>ぐ</a>　　　<a href="https://jisho.org/search/結婚"><ins><ruby>結<rt>けっ</rt></ruby>婚</ins></a>　<a href="https://jisho.org/search/離婚"><ins><ruby>離<rt>り</rt></ruby>婚</ins></a>　<a href="https://jisho.org/search/婚約">婚<ruby>約<rt>やく</rt></ruby>婚</a>　<a href="https://jisho.org/search/婚姻">婚<ruby>姻<rt>いん</rt></ruby></a>　</td>  
   </tr>
 </table>
 

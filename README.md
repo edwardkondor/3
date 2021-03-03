@@ -34,7 +34,7 @@
   <tr>
     <td>コ　　</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/8DE8.svg" alt="跨" height="30"></td>
-    <td><a href="https://jisho.org/search/跨ぐ"><b>また</b>ぐ</a>　　　　<a href="https://jisho.org/search/跨線"><ins>跨<ruby>線<rt>せん</rt></ruby></ins></a></td>　  
+    <td><a href="https://jisho.org/search/跨ぐ"><b>また</b>ぐ</a>　　　<a href="https://jisho.org/search/跨線"><ins>跨<ruby>線<rt>せん</rt></ruby></ins></a></td>　  
   </tr>
 </table>
 

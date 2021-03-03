@@ -2,7 +2,7 @@
   <tr>
     <td>コン</td>
     <td><img src="https://f.2cn.cn/hanzi/svg/660F.svg" alt="昏" height="30"></td>
-    <td><a href="https://jisho.org/search/暗い"><b>くら</b>い</a>　　　<a href="https://jisho.org/search/昏睡"><ins>昏<ruby>睡<rt>すい</rt></ruby></ins></a>　<a href="https://jisho.org/search/黄昏"><ins><ruby>黄昏<rt>たそがれ</rt></ruby></ins>　<a href="https://jisho.org/search/昏迷">昏<ruby>迷<rt>めい</rt></ruby></a>　</td>  
+    <td><a href="https://jisho.org/search/暗い"><b>くら</b>い</a>　　　<a href="https://jisho.org/search/昏睡"><ins>昏<ruby>睡<rt>すい</rt></ruby></ins></a>　<a href="https://jisho.org/search/黄昏"><ins><ruby>黄昏<rt>たそがれ</rt></ruby></ins></a>　<a href="https://jisho.org/search/昏迷">昏<ruby>迷<rt>めい</rt></ruby></a>　</td>  
   </tr>
   <tr>
     <td>コン</td>
